@@ -20,7 +20,7 @@ Welcome to my GitHub profile — a space where I build, learn, and grow.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=emeralda0144&show_icons=true&theme=default&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=emeralda0144&show_icons=true&theme=default&hide_border=true)
 
 ---
 

@@ -33,12 +33,11 @@ I'm always open to discussing new projects, collaborations, or having a good tec
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emeralda0144)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emeraldcator@gmail.com)
-
-🔗 [![Portfolio](https://copec.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat)](https://copec.dev)
 
 ---
 
-✨ Let's create something amazing together!
+✨ _Let's create something amazing together!_
 
 ✨ _Always learning, always building._
 

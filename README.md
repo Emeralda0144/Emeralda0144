@@ -20,15 +20,21 @@ Welcome to my GitHub profile — a space where I build, learn, and grow.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?emeralda0144=Emeralda0144&show_icons=true&theme=default&hide_border=true)
+![Your GitHub stats](![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=emeralda0144&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect! 🌟
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/onyinyechi-peace-mnim-3b953b146/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat)](https://copec.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emeraldcator@gmail.com)
+I'm always open to discussing new projects, collaborations, or just having a good tech chat. Feel free to reach out!
+
+- 📫 **Email**: [your.email@example.com](mailto:emeraldcator@gmail.com)
+- 🌍 **Website**: [yourwebsite.com](https://copec.dev)
+- 💼 **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/onyinyechi-peace-mnim-3b953b146/))
+- 🐦 **Twitter**: [@yourhandle](https://twitter.com/#)
+---
+
+✨ Let's create something amazing together!
 
 ---
 
